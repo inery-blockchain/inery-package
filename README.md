@@ -17,5 +17,5 @@ In order to install inery-package, please run following commands:
 ```
 sudo apt update -y
 sudo apt upgrade -y
-curl -LJO https://github.com/inery-blockchain/inery-package/inery-package_1.0.0_all.deb?raw=true -o inery-package_1.0.0_all.deb; sudo dpkg -i inery-package_1.0.0_all.deb
+curl -LJO https://github.com/inery-blockchain/inery-package/blob/master/inery-package_1.0.0_all.deb?raw=true -o inery-package_1.0.0_all.deb; sudo dpkg -i inery-package_1.0.0_all.deb
 ```
